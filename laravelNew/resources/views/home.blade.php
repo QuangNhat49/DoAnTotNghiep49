@@ -13,6 +13,7 @@
     <title>Trang chủ | TechLine</title>
     <meta name="description" content="Multipurpose HTML template.">
     <script src="v2/templates.framework-y.com/techline/scripts/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/> <!-- link font awesome -->
     <link rel="stylesheet" href="v2/templates.framework-y.com/techline/scripts/bootstrap/css/bootstrap.css">
     <script src="v2/templates.framework-y.com/techline/scripts/script.js"></script>
     <link rel="stylesheet" href="v2/templates.framework-y.com/techline/style.css">
@@ -467,6 +468,11 @@
                                 <button type="button" class="btn btn-default btn-search">
                                     <span class="fa fa-search"></span>
                                 </button>
+                            </div>
+                            <div class="accout">
+                                <a href="#">
+                                    <i class="far fa-user"></i>
+                                </a>
                             </div>
                             <!-- <ul class="nav navbar-nav lan-menu">
                                 <li class="dropdown">
