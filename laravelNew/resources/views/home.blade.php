@@ -493,16 +493,9 @@
                         mơ</h2>
                     <hr class="space xs" />
                     <p class="font-2 anima">
-                        Ratione numquam. Fugiat alias saepe fuga odio sed exauris, minim anim dolores earum!
-                        Veniam corporis cupidatat atque nesciunt dicta justoui varius atedo pariatur senectus.
-                        Erat, consectetur aspernatur voluptate perspiciatis.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, accusantium non iure, ullam veniam totam et id ex ad, eius voluptatem sed molestiae odit consequuntur inventore delectus a autem commodi?
                     </p>
                     <hr class="space s" />
-                    <div class="anima">
-                        <a href="#" class="btn btn-sm">BUSINESS</a><span class="space"></span>
-                        <a href="#" class="btn btn-border btn-sm">HOME</a>
-                    </div>
-
                     <hr class="space visible-xs" />
                 </div>
             </div>
