@@ -1,0 +1,101 @@
+body {
+    background-color: #F0EEF0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+.main {
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.form {
+    background-color: #FFFFFF;
+    padding: 40px;
+    margin-top: 70px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.desc {
+    text-align: center;
+    font-weight: 200;
+    margin-bottom: 50px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.form-group.invalid .form-control {
+    border: 1.5px solid red;
+}
+
+.form-group.invalid .form-message {
+    color: red;
+}
+
+.form-label {
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1.5px solid #1dbfaf;
+    padding-left: 15px;
+}
+
+.form-control:hover {
+    border-color: #2e887f;
+}
+
+.form-control:focus {
+    outline-style: none;
+    border: 1.5px solid #1dbfaf;
+}
+
+input[name="gender"] {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border: 1.5px solid #1dbfaf;
+    margin-right: 15px;
+}
+
+.form-message {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 5px 0;
+}
+
+.form-submit {
+    width: 400px;
+    height: 40px;
+    background-color: #1AAA9B;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    outline-style: none;
+}
+
+.form-submit:hover {
+    background-color: #1ac7b6;
+}
+
+.chooseGender {
+    font-size: 15px;
+}
