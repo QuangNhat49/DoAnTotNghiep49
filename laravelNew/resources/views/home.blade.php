@@ -452,7 +452,8 @@
                                                             full-screen parallax</a></li>
                                                     <li><i class="fa-li im-arrow-outside"></i> <a
                                                             href="features/titles/template-title-slider-parallax.html">Slider
-                                                            parallax</a></li>
+                                                            parallax</a>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -470,8 +471,10 @@
                                 </button>
                             </div>
                             <div class="accout">
-                                <a href="#">
-                                    <i class="far fa-user"></i>
+                                <a href="111">
+                                    <span class="btn-account">
+                                        <i class="far fa-user"></i>
+                                    </span>
                                 </a>
                             </div>
                             <!-- <ul class="nav navbar-nav lan-menu">

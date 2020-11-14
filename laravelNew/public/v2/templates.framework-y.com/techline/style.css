@@ -7177,3 +7177,17 @@ html.iex .img-box img {
 html.iex .footer-parallax {
     z-index: 0;
 }
+
+/* ------------------------------------------My------------------------------------- */
+
+.btn-account{
+    transition: all .6s;
+}
+
+.btn-account i{
+    font-size: 22px;
+    padding: 17px 30px 11px 30px;
+    font-weight: 50;
+}
+
+
