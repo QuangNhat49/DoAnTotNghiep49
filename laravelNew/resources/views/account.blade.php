@@ -15,20 +15,20 @@
     <div class="main">
         <form action="" method="POST" class="form" id="form-1">
             <h1 class="heading">Đăng ký thành viên </h1>
-            <p class="desc">Cùng nhau học lập trình thôi nào <span style="color: red;">❤</span></p>
+            <p class="desc">Cùng bắt đầu cuộc hành trình cùng chúng tôi <span style="color: #E60000;">❤</span></p>
 
             <div class="spacer"></div>
 
             <div class="form-group">
                 <label for="fullname" class="form-label">Tên đầy đủ</label>
-                <input type="text" name="fullname" id="fullname" placeholder="VD: Nguyễn Quang Nhật"
+                <input type="text" name="fullname" id="fullname" placeholder="VD: Anthony Edward Stark"
                     class="form-control">
                 <span class="form-message"></span>
             </div>
 
             <div class="form-group">
                 <label for="email" class="form-label">Email</label>
-                <input type="email" name="email" id="email" placeholder="VD: NguyenQuangNhat49@gmail.com"
+                <input type="email" name="email" id="email" placeholder="VD: AnthonyEdwardStark@gmail.com"
                     class="form-control">
                 <span class="form-message"></span>
             </div>
