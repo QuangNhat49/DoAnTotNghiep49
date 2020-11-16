@@ -13,7 +13,7 @@
     <title>Trang chủ | TechLine</title>
     <meta name="description" content="Multipurpose HTML template.">
     <script src="v2/templates.framework-y.com/techline/scripts/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/> <!-- link font awesome -->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" /> <!-- link font awesome -->
     <link rel="stylesheet" href="v2/templates.framework-y.com/techline/scripts/bootstrap/css/bootstrap.css">
     <script src="v2/templates.framework-y.com/techline/scripts/script.js"></script>
     <link rel="stylesheet" href="v2/templates.framework-y.com/techline/style.css">
@@ -49,8 +49,7 @@
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav">
                             <li class="dropdown active mega-dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Trang chủ<span
-                                        class="caret"></span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Trang chủ<span class="caret"></span></a>
                                 <div class="mega-menu dropdown-menu multi-level row bg-menu">
                                     <div class="col">
                                         <ul class="fa-ul no-icons text-s">
@@ -91,8 +90,7 @@
                                 </div>
                             </li>
                             <li class="dropdown mega-dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Pages <span
-                                        class="caret"></span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Pages <span class="caret"></span></a>
                                 <div class="mega-menu dropdown-menu multi-level row bg-menu">
                                     <div class="col">
                                         <ul class="fa-ul no-icons text-s">
@@ -133,8 +131,7 @@
                                 </div>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Danh mục đầu tư<span
-                                        class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Danh mục đầu tư<span class="caret"></span></a>
                                 <ul class="dropdown-menu multi-level">
                                     <li class="dropdown dropdown-submenu">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio one</a>
@@ -181,8 +178,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Blog <span
-                                        class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Blog <span class="caret"></span></a>
                                 <ul class="dropdown-menu multi-level">
                                     <li><a href="blog-1.html">Tiêu chuẩn</a></li>
                                     <li><a href="blog-2.html">Tiêu chuẩn 2</a></li>
@@ -200,8 +196,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown mega-dropdown mega-tabs">
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Elements <span
-                                        class="caret"></span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Elements <span class="caret"></span></a>
                                 <div class="mega-menu dropdown-menu multi-level row bg-menu">
                                     <div class="tab-box" data-tab-anima="fade-left">
                                         <ul class="nav nav-tabs">
@@ -213,112 +208,79 @@
                                             <div class="col">
                                                 <h5>Components</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-posterous"></i> <a
-                                                            href="features/components/icons.html">Icons</a></li>
-                                                    <li><i class="fa-li im-secound"></i> <a
-                                                            href="features/components/counters-countdown.html">Counters</a>
+                                                    <li><i class="fa-li im-posterous"></i> <a href="features/components/icons.html">Icons</a></li>
+                                                    <li><i class="fa-li im-secound"></i> <a href="features/components/counters-countdown.html">Counters</a>
                                                     </li>
-                                                    <li><i class="fa-li im-clock-back"></i> <a
-                                                            href="features/components/counters-countdown.html">Countdowns</a>
+                                                    <li><i class="fa-li im-clock-back"></i> <a href="features/components/counters-countdown.html">Countdowns</a>
                                                     </li>
-                                                    <li><i class="fa-li im-libra"></i> <a
-                                                            href="features/components/progress-bars.html">Progress
+                                                    <li><i class="fa-li im-libra"></i> <a href="features/components/progress-bars.html">Progress
                                                             bars</a></li>
-                                                    <li><i class="fa-li im-arrow-refresh2"></i> <a
-                                                            href="features/components/progress-bars.html">Circle
+                                                    <li><i class="fa-li im-arrow-refresh2"></i> <a href="features/components/progress-bars.html">Circle
                                                             progress bars</a></li>
-                                                    <li><i class="fa-li im-calendar-4"></i> <a
-                                                            href="features/components/timeline.html">Timeline</a></li>
-                                                    <li><i class="fa-li im-map2"></i> <a
-                                                            href="features/components/maps.html">Google maps</a></li>
-                                                    <li><i class="fa-li im-split-horizontal2window"></i> <a
-                                                            href="features/components/tables.html">Advanced table</a>
+                                                    <li><i class="fa-li im-calendar-4"></i> <a href="features/components/timeline.html">Timeline</a></li>
+                                                    <li><i class="fa-li im-map2"></i> <a href="features/components/maps.html">Google maps</a></li>
+                                                    <li><i class="fa-li im-split-horizontal2window"></i> <a href="features/components/tables.html">Advanced table</a>
                                                     </li>
-                                                    <li><i class="fa-li im-speach-bubbles"></i> <a
-                                                            href="features/components/php-contact-form.html">Contact
+                                                    <li><i class="fa-li im-speach-bubbles"></i> <a href="features/components/php-contact-form.html">Contact
                                                             form</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Main components</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-hand-touch"></i> <a
-                                                            href="features/components/buttons.html">Buttons</a></li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/components/image-boxes.html">Image boxes</a>
+                                                    <li><i class="fa-li im-hand-touch"></i> <a href="features/components/buttons.html">Buttons</a></li>
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/components/image-boxes.html">Image boxes</a>
                                                     </li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/components/image-boxes-advanced.html">Advanced
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/components/image-boxes-advanced.html">Advanced
                                                             image boxes</a></li>
-                                                    <li><i class="fa-li im-id-2"></i> <a
-                                                            href="features/components/content-box.html">Content
+                                                    <li><i class="fa-li im-id-2"></i> <a href="features/components/content-box.html">Content
                                                             boxes</a></li>
-                                                    <li><i class="fa-li im-facebook"></i> <a
-                                                            href="features/components/social-media.html">Social
+                                                    <li><i class="fa-li im-facebook"></i> <a href="features/components/social-media.html">Social
                                                             media</a></li>
-                                                    <li><i class="fa-li im-numbering-list"></i> <a
-                                                            href="features/components/lists.html">Lists</a></li>
-                                                    <li><i class="fa-li im-bold-text"></i> <a
-                                                            href="features/components/typography.html">Typography</a>
+                                                    <li><i class="fa-li im-numbering-list"></i> <a href="features/components/lists.html">Lists</a></li>
+                                                    <li><i class="fa-li im-bold-text"></i> <a href="features/components/typography.html">Typography</a>
                                                     </li>
-                                                    <li><i class="fa-li im-split-foursquarewindow"></i> <a
-                                                            href="features/containers/list-grid.html">Grid</a></li>
-                                                    <li><i class="fa-li im-split-foursquarewindow"></i> <a
-                                                            href="features/containers/list-masonry.html">Masonry</a>
+                                                    <li><i class="fa-li im-split-foursquarewindow"></i> <a href="features/containers/list-grid.html">Grid</a></li>
+                                                    <li><i class="fa-li im-split-foursquarewindow"></i> <a href="features/containers/list-masonry.html">Masonry</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Containers</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-maximize"></i> <a
-                                                            href="features/containers/lightbox.html">Lightbox and
+                                                    <li><i class="fa-li im-maximize"></i> <a href="features/containers/lightbox.html">Lightbox and
                                                             popups</a></li>
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/containers/sliders.html">Sliders and
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/containers/sliders.html">Sliders and
                                                             carousels</a></li>
-                                                    <li><i class="fa-li im-scroll-fast"></i> <a
-                                                            href="features/containers/scroll-box-collapse.html">Scroll
+                                                    <li><i class="fa-li im-scroll-fast"></i> <a href="features/containers/scroll-box-collapse.html">Scroll
                                                             box</a></li>
-                                                    <li><i class="fa-li im-download-2"></i> <a
-                                                            href="features/containers/scroll-box-collapse.html">Collapse
+                                                    <li><i class="fa-li im-download-2"></i> <a href="features/containers/scroll-box-collapse.html">Collapse
                                                             box</a></li>
-                                                    <li><i class="fa-li im-new-tab"></i> <a
-                                                            href="features/containers/tabs.html">Tabs</a></li>
-                                                    <li><i class="fa-li im-new-tab"></i> <a
-                                                            href="features/containers/accordions.html">Accordions</a>
+                                                    <li><i class="fa-li im-new-tab"></i> <a href="features/containers/tabs.html">Tabs</a></li>
+                                                    <li><i class="fa-li im-new-tab"></i> <a href="features/containers/accordions.html">Accordions</a>
                                                     </li>
-                                                    <li><i class="fa-li im-go-bottom"></i> <a
-                                                            href="features/footers/footer-parallax.html">Footer
+                                                    <li><i class="fa-li im-go-bottom"></i> <a href="features/footers/footer-parallax.html">Footer
                                                             parallax</a></li>
-                                                    <li><i class="fa-li im-go-bottom"></i> <a
-                                                            href="features/footers/footer-minimal.html">Footer
+                                                    <li><i class="fa-li im-go-bottom"></i> <a href="features/footers/footer-minimal.html">Footer
                                                             minimal</a></li>
-                                                    <li><i class="fa-li im-go-bottom"></i> <a
-                                                            href="features/footers/footer-base.html">Footer base</a>
+                                                    <li><i class="fa-li im-go-bottom"></i> <a href="features/footers/footer-base.html">Footer base</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Sections</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-panorama"></i> <a
-                                                            href="features/containers/section-background-image.html">Background
+                                                    <li><i class="fa-li im-panorama"></i> <a href="features/containers/section-background-image.html">Background
                                                             image</a></li>
-                                                    <li><i class="fa-li im-panorama"></i> <a
-                                                            href="features/containers/section-background-image-parallax.html">Background
+                                                    <li><i class="fa-li im-panorama"></i> <a href="features/containers/section-background-image-parallax.html">Background
                                                             parallax</a></li>
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/containers/section-slider.html">Slider</a>
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/containers/section-slider.html">Slider</a>
                                                     </li>
-                                                    <li><i class="fa-li im-film-strip"></i> <a
-                                                            href="features/containers/section-background-video.html">Background
+                                                    <li><i class="fa-li im-film-strip"></i> <a href="features/containers/section-background-video.html">Background
                                                             video</a></li>
-                                                    <li><i class="fa-li im-clouds"></i> <a
-                                                            href="features/containers/section-animations.html">Bg
+                                                    <li><i class="fa-li im-clouds"></i> <a href="features/containers/section-animations.html">Bg
                                                             animations</a></li>
-                                                    <li><i class="fa-li im-clouds"></i> <a
-                                                            href="features/containers/section-animations-parallax.html">Bg
+                                                    <li><i class="fa-li im-clouds"></i> <a href="features/containers/section-animations-parallax.html">Bg
                                                             animations parallax</a></li>
                                                 </ul>
                                             </div>
@@ -327,52 +289,39 @@
                                             <div class="col">
                                                 <h5>Horizontal menus</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-classic.html">Menu classic</a>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-classic.html">Menu classic</a>
                                                     </li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-classic-transparent.html">Menu
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-classic-transparent.html">Menu
                                                             classic transparent</a></li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-big-logo.html">Menu big logo</a>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-big-logo.html">Menu big logo</a>
                                                     </li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-subline.html">Menu subline</a>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-subline.html">Menu subline</a>
                                                     </li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-subtitle.html">Menu subtitle</a>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-subtitle.html">Menu subtitle</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Horizontal menus</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-middle-logo.html">Menu middle
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-middle-logo.html">Menu middle
                                                             logo</a></li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-middle-logo-top.html">Menu middle
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-middle-logo-top.html">Menu middle
                                                             logo top</a></li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-middle-box.html">Menu middle
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-middle-box.html">Menu middle
                                                             box</a></li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-icons.html">Menu icons</a></li>
-                                                    <li><i class="fa-li im-road"></i> <a
-                                                            href="features/menus/menu-icons-top.html">Menu icons top</a>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-icons.html">Menu icons</a></li>
+                                                    <li><i class="fa-li im-road"></i> <a href="features/menus/menu-icons-top.html">Menu icons top</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Side menus</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-road-2"></i> <a
-                                                            href="features/menus/menu-side.html">Side classic</a></li>
-                                                    <li><i class="fa-li im-road-2"></i> <a
-                                                            href="features/menus/menu-side-lateral.html">Side
+                                                    <li><i class="fa-li im-road-2"></i> <a href="features/menus/menu-side.html">Side classic</a></li>
+                                                    <li><i class="fa-li im-road-2"></i> <a href="features/menus/menu-side-lateral.html">Side
                                                             lateral</a></li>
-                                                    <li><i class="fa-li im-road-2"></i> <a
-                                                            href="features/menus/menu-side-simple.html">Side simple</a>
+                                                    <li><i class="fa-li im-road-2"></i> <a href="features/menus/menu-side-simple.html">Side simple</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -381,77 +330,58 @@
                                             <div class="col">
                                                 <h5>Image background</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/titles/template-title-image.html">Image
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/titles/template-title-image.html">Image
                                                             background</a></li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/titles/template-title-image-fullscreen.html">Image
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/titles/template-title-image-fullscreen.html">Image
                                                             full-screen</a></li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/titles/template-title-image-fullscreen-parallax.html">Image
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/titles/template-title-image-fullscreen-parallax.html">Image
                                                             full-screen parallax</a></li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/titles/template-title-image-parallax.html">Image
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/titles/template-title-image-parallax.html">Image
                                                             parallax</a></li>
-                                                    <li><i class="fa-li im-old-camera"></i> <a
-                                                            href="features/titles/template-title-image-parallax-ken-burn.html">Image
+                                                    <li><i class="fa-li im-old-camera"></i> <a href="features/titles/template-title-image-parallax-ken-burn.html">Image
                                                             parallax ken-burn</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Video background</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-film-board"></i> <a
-                                                            href="features/titles/template-title-video-mp4.html">Video
+                                                    <li><i class="fa-li im-film-board"></i> <a href="features/titles/template-title-video-mp4.html">Video
                                                             background MP4</a></li>
-                                                    <li><i class="fa-li im-film-board"></i> <a
-                                                            href="features/titles/template-title-video-youtube.html">Video
+                                                    <li><i class="fa-li im-film-board"></i> <a href="features/titles/template-title-video-youtube.html">Video
                                                             background Youtube</a></li>
-                                                    <li><i class="fa-li im-film-board"></i> <a
-                                                            href="features/titles/template-title-video-fullscreen.html">Video
+                                                    <li><i class="fa-li im-film-board"></i> <a href="features/titles/template-title-video-fullscreen.html">Video
                                                             full-screen</a></li>
-                                                    <li><i class="fa-li im-film-board"></i> <a
-                                                            href="features/titles/template-title-video-fullscreen-parallax.html">Video
+                                                    <li><i class="fa-li im-film-board"></i> <a href="features/titles/template-title-video-fullscreen-parallax.html">Video
                                                             full-screen parallax</a></li>
-                                                    <li><i class="fa-li im-film-board"></i> <a
-                                                            href="features/titles/template-title-video-parallax.html">Video
+                                                    <li><i class="fa-li im-film-board"></i> <a href="features/titles/template-title-video-parallax.html">Video
                                                             parallax</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Others</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-panorama"></i> <a
-                                                            href="features/titles/template-title-base-1.html">Title base
+                                                    <li><i class="fa-li im-panorama"></i> <a href="features/titles/template-title-base-1.html">Title base
                                                             1</a></li>
-                                                    <li><i class="fa-li im-panorama"></i> <a
-                                                            href="features/titles/template-title-base-2.html">Title base
+                                                    <li><i class="fa-li im-panorama"></i> <a href="features/titles/template-title-base-2.html">Title base
                                                             2</a></li>
-                                                    <li><i class="fa-li im-panorama"></i> <a
-                                                            href="features/titles/template-title-bootstrap.html">Title
+                                                    <li><i class="fa-li im-panorama"></i> <a href="features/titles/template-title-bootstrap.html">Title
                                                             bootstrap</a></li>
-                                                    <li><i class="fa-li im-clouds"></i> <a
-                                                            href="features/titles/template-title-animation.html">Animation
+                                                    <li><i class="fa-li im-clouds"></i> <a href="features/titles/template-title-animation.html">Animation
                                                             background</a></li>
-                                                    <li><i class="fa-li im-clouds"></i> <a
-                                                            href="features/titles/template-title-animation-parallax.html">Animation
+                                                    <li><i class="fa-li im-clouds"></i> <a href="features/titles/template-title-animation-parallax.html">Animation
                                                             parallax</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col">
                                                 <h5>Slider background</h5>
                                                 <ul class="fa-ul text-s">
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/titles/template-title-slider.html">Slider
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/titles/template-title-slider.html">Slider
                                                             background</a></li>
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/titles/template-title-slider-fullscreen.html">Slider
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/titles/template-title-slider-fullscreen.html">Slider
                                                             full-screen</a></li>
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/titles/template-title-slider-fullscreen-parallax.html">Slider
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/titles/template-title-slider-fullscreen-parallax.html">Slider
                                                             full-screen parallax</a></li>
-                                                    <li><i class="fa-li im-arrow-outside"></i> <a
-                                                            href="features/titles/template-title-slider-parallax.html">Slider
+                                                    <li><i class="fa-li im-arrow-outside"></i> <a href="features/titles/template-title-slider-parallax.html">Slider
                                                             parallax</a>
                                                     </li>
                                                 </ul>
@@ -492,8 +422,7 @@
             </div>
         </div>
     </header>
-    <div class="section-bg-image parallax-window box-middle-container row-20 no-bg-xs" data-natural-height="1080"
-        data-natural-width="1920" data-parallax="scroll" data-image-src="v2/templates.framework-y.com/techline/images/hd-1.jpg">
+    <div class="section-bg-image parallax-window box-middle-container row-20 no-bg-xs" data-natural-height="1080" data-natural-width="1920" data-parallax="scroll" data-image-src="v2/templates.framework-y.com/techline/images/hd-1.jpg">
         <div class="container content box-middle">
             <div class="row">
                 <div class="col-md-6" data-anima="fade-left" data-timeline="asc" data-time="1500">
@@ -612,8 +541,7 @@
                 </div>
                 <div class="col-md-6">
                     <hr class="space l" />
-                    <div class="flexslider carousel png-over nav-inner"
-                        data-options="minWidth:100,itemMargin:3,numItems:3,controlNav:false,directionNav:false">
+                    <div class="flexslider carousel png-over nav-inner" data-options="minWidth:100,itemMargin:3,numItems:3,controlNav:false,directionNav:false">
                         <ul class="slides">
                             <li>
                                 <img src="v2/templates.framework-y.com/techline/images/logos/logo_1.png" alt="" />
@@ -632,44 +560,38 @@
                 </div>
             </div>
             <hr class="space s" />
-            <div class="flexslider carousel"
-                data-options="minWidth:200,itemMargin:15,numItems:4,controlNav:true,directionNav:true">
+            <div class="flexslider carousel" data-options="minWidth:200,itemMargin:15,numItems:4,controlNav:true,directionNav:true">
                 <ul class="slides">
                     <li>
-                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-1.jpg"
-                            data-lightbox-anima="fade-left">
+                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-1.jpg" data-lightbox-anima="fade-left">
                             <span>
                                 <img src="v2/templates.framework-y.com/techline/images/gallery/image-1.jpg" alt="">
                             </span>
                         </a>
                     </li>
                     <li>
-                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-2.jpg"
-                            data-lightbox-anima="fade-left">
+                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-2.jpg" data-lightbox-anima="fade-left">
                             <span>
                                 <img src="v2/templates.framework-y.com/techline/images/gallery/image-2.jpg" alt="">
                             </span>
                         </a>
                     </li>
                     <li>
-                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-3.jpg"
-                            data-lightbox-anima="fade-left">
+                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-3.jpg" data-lightbox-anima="fade-left">
                             <span>
                                 <img src="v2/templates.framework-y.com/techline/images/gallery/image-3.jpg" alt="">
                             </span>
                         </a>
                     </li>
                     <li>
-                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-4.jpg"
-                            data-lightbox-anima="fade-left">
+                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-4.jpg" data-lightbox-anima="fade-left">
                             <span>
                                 <img src="v2/templates.framework-y.com/techline/images/gallery/image-4.jpg" alt="">
                             </span>
                         </a>
                     </li>
                     <li>
-                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-5.jpg"
-                            data-lightbox-anima="fade-left">
+                        <a class="img-box thumbnail lightbox" href="v2/templates.framework-y.com/techline/images/gallery/image-5.jpg" data-lightbox-anima="fade-left">
                             <span>
                                 <img src="v2/templates.framework-y.com/techline/images/gallery/image-5.jpg" alt="">
                             </span>
@@ -789,26 +711,21 @@
                             Giữ liên lạc. Gặp chúng tôi và bắt đầu một sự hợp tác tuyệt vời.
                         </p>
                     </div>
-                    <form action="http://www.framework-y.com/scripts/php/contact-form.php"
-                        class="form-box form-ajax text-left" method="post">
+                    <form action="http://www.framework-y.com/scripts/php/contact-form.php" class="form-box form-ajax text-left" method="post">
                         <div class="row">
                             <div class="col-md-6">
-                                <input id="name" name="name" placeholder="Tên" type="text"
-                                    class="form-control form-value" required>
+                                <input id="name" name="name" placeholder="Tên" type="text" class="form-control form-value" required>
                             </div>
                             <div class="col-md-6">
-                                <input id="email" name="email" placeholder="Email" type="email"
-                                    class="form-control form-value" required>
+                                <input id="email" name="email" placeholder="Email" type="email" class="form-control form-value" required>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <hr class="space xs" />
-                                <input id="phone" name="phone" placeholder="SĐT" type="text"
-                                    class="form-control form-value">
+                                <input id="phone" name="phone" placeholder="SĐT" type="text" class="form-control form-value">
                                 <hr class="space xs" />
-                                <textarea id="messagge" name="messagge" placeholder="Nội dung"
-                                    class="form-control form-value" required></textarea>
+                                <textarea id="messagge" name="messagge" placeholder="Nội dung" class="form-control form-value" required></textarea>
                                 <hr class="space s" />
                                 <button class="anima-button btn-sm btn" type="submit"><i class="im-envelope"></i>Gửi
                                     thông tin</button>
@@ -844,12 +761,10 @@
     </div>
     <div class="section-empty">
         <div class="container content">
-            <div class="flexslider carousel nav-inner outer-navs"
-                data-options="minWidth:250,itemMargin:15,numItems:3,controlNav:true,directionNav:true">
+            <div class="flexslider carousel nav-inner outer-navs" data-options="minWidth:250,itemMargin:15,numItems:3,controlNav:true,directionNav:true">
                 <ul class="slides">
                     <li>
-                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse"
-                            data-anima="scale-rotate" data-trigger="hover">
+                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
                             <div class="block-infos">
                                 <div class="block-data">
                                     <p class="bd-day">25</p>
@@ -861,8 +776,7 @@
                             <div class="advs-box-content">
                                 <h2><a href="#">Galvanize will teach students</a></h2>
                                 <div class="tag-row">
-                                    <span><i class="fa fa-bookmark"></i> <a href="#">Business</a>, <a
-                                            href="#">Financial</a></span>
+                                    <span><i class="fa fa-bookmark"></i> <a href="#">Business</a>, <a href="#">Financial</a></span>
                                     <span><i class="fa fa-pencil"></i><a>Admin</a></span>
                                 </div>
                                 <p class="niche-box-content">
@@ -874,8 +788,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse"
-                            data-anima="scale-rotate" data-trigger="hover">
+                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
                             <div class="block-infos">
                                 <div class="block-data">
                                     <p class="bd-day">28</p>
@@ -887,8 +800,7 @@
                             <div class="advs-box-content">
                                 <h2><a href="#">The great enterprise chat race</a></h2>
                                 <div class="tag-row">
-                                    <span><i class="fa fa-bookmark"></i> <a href="#">Travel</a>, <a
-                                            href="#">Tech</a></span>
+                                    <span><i class="fa fa-bookmark"></i> <a href="#">Travel</a>, <a href="#">Tech</a></span>
                                     <span><i class="fa fa-pencil"></i><a>Admin</a></span>
                                 </div>
                                 <p class="niche-box-content">
@@ -900,8 +812,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse"
-                            data-anima="scale-rotate" data-trigger="hover">
+                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
                             <div class="block-infos">
                                 <div class="block-data">
                                     <p class="bd-day">04</p>
@@ -913,8 +824,7 @@
                             <div class="advs-box-content">
                                 <h2><a href="#">For tech finds leaks underground</a></h2>
                                 <div class="tag-row">
-                                    <span><i class="fa fa-bookmark"></i> <a href="#">Web</a>, <a
-                                            href="#">Development</a></span>
+                                    <span><i class="fa fa-bookmark"></i> <a href="#">Web</a>, <a href="#">Development</a></span>
                                     <span><i class="fa fa-pencil"></i><a>Admin</a></span>
                                 </div>
                                 <p class="niche-box-content">
@@ -926,8 +836,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse"
-                            data-anima="scale-rotate" data-trigger="hover">
+                        <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
                             <div class="block-infos">
                                 <div class="block-data">
                                     <p class="bd-day">11</p>
@@ -939,8 +848,7 @@
                             <div class="advs-box-content">
                                 <h2><a href="#">The Nevada desert trip</a></h2>
                                 <div class="tag-row">
-                                    <span><i class="fa fa-bookmark"></i> <a href="#">Web</a>, <a
-                                            href="#">design</a></span>
+                                    <span><i class="fa fa-bookmark"></i> <a href="#">Web</a>, <a href="#">design</a></span>
                                     <span><i class="fa fa-pencil"></i><a>Admin</a></span>
                                 </div>
                                 <p class="niche-box-content">
@@ -968,8 +876,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="progress-circle pull-right pull-none-xs" data-progress="100" data-size="140"
-                        data-thickness="2" data-color="#D52B1E">
+                    <div class="progress-circle pull-right pull-none-xs" data-progress="100" data-size="140" data-thickness="2" data-color="#D52B1E">
                         <div class="inner-circle">
                             <div class="inner-center">
                                 <div class="subtitle c">
@@ -1020,8 +927,7 @@
                                             Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita
                                             fusce temporibus est odit mi quos liquid sempero veritatis dignissimos.
                                         </p>
-                                        <a class="anima-button btn btn-sm" href="#"><i
-                                                class="im-full-cart"></i>Mua hàng</a>
+                                        <a class="anima-button btn btn-sm" href="#"><i class="im-full-cart"></i>Mua hàng</a>
                                     </div>
                                 </div>
                             </div>
@@ -1046,8 +952,7 @@
                                             Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita
                                             fusce temporibus est odit mi quos liquid sempero veritatis dignissimos.
                                         </p>
-                                        <a class="anima-button btn btn-sm" href="#"><i
-                                                class="im-full-cart"></i>Mua hàng</a>
+                                        <a class="anima-button btn btn-sm" href="#"><i class="im-full-cart"></i>Mua hàng</a>
                                     </div>
                                 </div>
                             </div>
@@ -1072,8 +977,7 @@
                                             Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita
                                             fusce temporibus est odit mi quos liquid sempero veritatis dignissimos.
                                         </p>
-                                        <a class="anima-button btn btn-sm" href="#"><i
-                                                class="im-full-cart"></i>Mua hàng</a>
+                                        <a class="anima-button btn btn-sm" href="#"><i class="im-full-cart"></i>Mua hàng</a>
                                     </div>
                                 </div>
                             </div>
@@ -1112,8 +1016,7 @@
                                             Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita
                                             fusce temporibus est odit mi quos liquid sempero veritatis dignissimos.
                                         </p>
-                                        <a class="anima-button btn btn-sm" href="#"><i
-                                                class="im-full-cart"></i>Mua hàng</a>
+                                        <a class="anima-button btn btn-sm" href="#"><i class="im-full-cart"></i>Mua hàng</a>
                                     </div>
                                 </div>
                             </div>
@@ -1133,8 +1036,7 @@
                                             Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita
                                             fusce temporibus est odit mi quos liquid sempero veritatis dignissimos.
                                         </p>
-                                        <a class="anima-button btn btn-sm" href="#"><i
-                                                class="im-full-cart"></i>Mua hàng</a>
+                                        <a class="anima-button btn btn-sm" href="#"><i class="im-full-cart"></i>Mua hàng</a>
                                     </div>
                                 </div>
                             </div>
@@ -1389,8 +1291,7 @@
                         <ul class="slides">
                             <li>
                                 <div class="advs-box advs-box-top-icon niche-box-testimonails">
-                                    <i class="fa text-xl circle onlycover"
-                                        style="background-image:url('v2/templates.framework-y.com/techline/images/user-1.jpg')"></i>
+                                    <i class="fa text-xl circle onlycover" style="background-image:url('v2/templates.framework-y.com/techline/images/user-1.jpg')"></i>
                                     <p>
                                         Tincidunt integer eu augue augue nunc elit dolor luctus placerat scelerisque
                                         euismod iaculis eu lacus nunc mi elit vehicula ut laoreet
@@ -1402,8 +1303,7 @@
                             </li>
                             <li>
                                 <div class="advs-box advs-box-top-icon niche-box-testimonails">
-                                    <i class="fa text-xl circle onlycover"
-                                        style="background-image:url('v2/templates.framework-y.com/techline/images/user-3.jpg')"></i>
+                                    <i class="fa text-xl circle onlycover" style="background-image:url('v2/templates.framework-y.com/techline/images/user-3.jpg')"></i>
                                     <p>
                                         Tincidunt integer eu augue augue nunc elit dolor luctus placerat scelerisque
                                         euismod iaculis eu lacus nunc mi elit vehicula ut laoreet
@@ -1415,8 +1315,7 @@
                             </li>
                             <li>
                                 <div class="advs-box advs-box-top-icon niche-box-testimonails">
-                                    <i class="fa text-xl circle onlycover"
-                                        style="background-image:url('v2/templates.framework-y.com/techline/images/user-2.jpg')"></i>
+                                    <i class="fa text-xl circle onlycover" style="background-image:url('v2/templates.framework-y.com/techline/images/user-2.jpg')"></i>
                                     <p>
                                         Tincidunt integer eu augue augue nunc elit dolor luctus placerat scelerisque
                                         euismod iaculis eu lacus nunc mi elit vehicula ut laoreet
@@ -1474,8 +1373,7 @@
             </div>
         </div>
     </div>
-    <div class="section-bg-image parallax-window" data-natural-height="750" data-natural-width="1920"
-        data-parallax="scroll" data-image-src="v2/templates.framework-y.com/techline/images/bg-1.jpg">
+    <div class="section-bg-image parallax-window" data-natural-height="750" data-natural-width="1920" data-parallax="scroll" data-image-src="v2/templates.framework-y.com/techline/images/bg-1.jpg">
         <div class="container content">
             <hr class="space" />
             <div class="row">
@@ -1488,11 +1386,9 @@
                 </p>
                 <hr class="space m" />
                 <div class="col-md-5 col-center">
-                    <form action="http://www.framework-y.com/scripts/php/contact-form.php" class="form-box form-ajax"
-                        method="post" data-email="federico@pixor.it">
+                    <form action="http://www.framework-y.com/scripts/php/contact-form.php" class="form-box form-ajax" method="post" data-email="federico@pixor.it">
                         <div class="input-group">
-                            <input type="text" required placeholder="Write your email here ..."
-                                class="form-control form-value">
+                            <input type="text" required placeholder="Write your email here ..." class="form-control form-value">
                             <div class="input-group-btn">
                                 <button type="submit" class="btn btn-default">Tham gia ngay</button>
                             </div>
@@ -1554,8 +1450,7 @@
     </div>
     <div class="section-bg-color">
         <div class="container content">
-            <div class="flexslider carousel outer-navs png-over text-center"
-                data-options="numItems:5,minWidth:100,itemMargin:30,controlNav:false,directionNav:false">
+            <div class="flexslider carousel outer-navs png-over text-center" data-options="numItems:5,minWidth:100,itemMargin:30,controlNav:false,directionNav:false">
                 <ul class="slides">
                     <li>
                         <a class="img-box" href="#">
@@ -1668,8 +1563,7 @@
             </div>
             <div class="row copy-row">
                 <div class="col-md-12 copy-text">
-                    © 2020<a
-                        href="#"></a>
+                    © 2020<a href="#"></a>
                 </div>
             </div>
         </div>
@@ -1690,7 +1584,5 @@
         <script src='v2/templates.framework-y.com/techline/scripts/smooth.scroll.min.js'></script>
     </footer>
 </body>
-
-<!-- Mirrored from templates.framework-y.com/techline/demo-main/index-main.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Oct 2020 15:15:36 GMT -->
 
 </html>
