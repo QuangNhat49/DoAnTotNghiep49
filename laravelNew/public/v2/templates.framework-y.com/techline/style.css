@@ -6926,13 +6926,13 @@ html.iex .footer-parallax {
     transition: all .6s;
 }
 
+.btn-account:hover {
+    transition: all .6s;
+    color: #0082B9;
+}
+
 .btn-account i {
     font-size: 22px;
     padding: 17px 30px 11px 30px;
     font-weight: 50;
-}
-
-.btn-account i:hover {
-    transition: all .6s;
-    color: #0082B9;
 }
