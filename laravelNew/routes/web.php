@@ -17,6 +17,11 @@ Route::get('/', function () {
     return view('home');
 });
 
+//Controller 
+// Route::get('/', 'HomeController@showWelcome');
+
+// Route::get('/', 'HomeController@showWelcome');
+
 Route::get('/account', function () {
     return view('account');
 });
